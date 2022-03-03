@@ -1,0 +1,30 @@
+{
+  "venues": [
+    {
+      "description": "lugar dónde las personas pueden ir a visitar a sus seres queridos, es amplio y espacioso, limpio y ordenado.",
+      "name": "Parque de los Recuerdos",
+      "geometry": [-0.11483, -78.482304]
+    },
+    {
+      "description": "Extenso parque con caminos arbolados, instalaciones deportivas y jardines ornamentales en un antiguo aeropuerto.",
+      "name": "Parque Bicentenario",
+      "geometry": [-0.136892, -78.487987]
+    },
+
+    {
+      "description": "Gran parque con un estanque con botes de remo, donde son populares el ciclismo, el fútbol y el baloncesto.",
+      "name": "Parque La Carolina",
+      "geometry": [-0.17789, -78.482734]
+    },
+    {
+      "description": "Área natural elevada con senderos arbolados y miradores con vistas a la ciudad, además de alpacas autóctonas.      ",
+      "name": "Parque Metropolitano",
+      "geometry": [-0.176695, -78.469636]
+    },
+    {
+      "description": "Parque de Quito - Ecuador",
+      "name": "Parque Itchimbia",
+      "geometry": [-0.221899, -78.498341]
+    }
+  ]
+}
