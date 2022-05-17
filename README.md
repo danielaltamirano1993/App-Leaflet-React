@@ -1,6 +1,27 @@
-Ingles
+English
 
+- This software is summarized in the use of a map for mobile terminals and computers.
+- The modules used are summarized in the package.json file
 
+# Resources package.json
+
+- Node JS
+- Reactjs
+- React
+- React
+- React
+- React-dom
+- React-booklet
+- React-dom
+- React-router
+- Test <br-like <br-dom>
+- React-router
+  
+#Test Application
+- Download the project using GitHub, Desktop version
+- Run cmd with the command 'npm install' in the root directory
+- In development mode run 'npm run start'
+- In production mode, run 'npm run build'
 
 Español
 
