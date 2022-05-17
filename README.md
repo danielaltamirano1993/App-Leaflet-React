@@ -1,22 +1,29 @@
-# MapsQuito-Leaflet-React
+Ingles
 
-- This software is summarized in the Package.json file
 
-#Resources
 
-- Node Js
+Español
+
+# MapaEnQuito-Leaflet-React
+
+- Este software se resume en el uso de un mapa para las terminales moviles y ordenadores.
+- Los modulos usados se resumen en el archivo package.json
+
+# Resources package.json
+
+- Node JS
 - Reactjs
 - React
-- leaflet
-- react
-- react-dom 
-- react-leaflet
-- react-router-dom
-- react-scripts
+- folleto
+- React
+- React-dom
+- React-folleto
+- React-router-dom
+- React-scripts
 
-#How to test the app
+# Cómo probar la aplicación
 
-- Download the project using GitHub Desktop
-- Run with 'npm install' in the root directory
-- In development mode run npm run start
-- In production mode run npm run build
+- Descargar el proyecto mediante GitHub, version Escritorio
+- Ejecute cmd con el comando 'npm install' en el directorio raíz
+- En modo de desarrollo ejecute 'npm run start'
+- En el modo de producción, ejecute 'npm run build'
